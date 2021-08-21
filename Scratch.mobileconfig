@@ -23,7 +23,7 @@
      <key>PayloadDisplayName</key>
      <string>Web Clip (Scratch)</string>
      <key>PayloadIdentifier</key>
-     <string>scratch.mit.edu</string>
+     <string>https://scratch.mit.edu</string>
      <key>PayloadOrganization</key>
      <string></string>
      <key>PayloadType</key>
