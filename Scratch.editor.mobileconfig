@@ -41,7 +41,7 @@
  <key>PayloadDescription</key>
  <string> </string>
  <key>PayloadDisplayName</key>
- <string>Scratch</string>
+ <string>Scratch Editor</string>
  <key>PayloadIdentifier</key>
  <string>scratch.mit.edu</string>
  <key>PayloadOrganization</key>
