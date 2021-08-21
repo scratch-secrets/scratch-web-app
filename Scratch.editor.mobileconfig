@@ -17,7 +17,7 @@
      <key>IsRemovable</key>
      <true/>
      <key>Label</key>
-     <string>Scratch</string>
+     <string>Scratch Editor</string>
      <key>PayloadDescription</key>
      <string>Adds a Web Clip.</string>
      <key>PayloadDisplayName</key>
